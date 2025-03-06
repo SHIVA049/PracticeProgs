@@ -6,6 +6,7 @@ public class simplePrint {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Learning Git By Practice");
+		System.out.println("Adding another line of Print");
 
 	}
 
