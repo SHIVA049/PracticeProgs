@@ -7,6 +7,7 @@ public class simplePrint {
 		
 		System.out.println("Learning Git By Practice");
 		System.out.println("Adding another line of Print");
+		System.out.println("Third Line for Test");
 
 	}
 
